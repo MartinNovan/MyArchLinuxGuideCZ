@@ -1,4 +1,4 @@
-# MyArchLinuxConfig
+# My Arch Linux Guide CZ
 Komplexní průvodce a konfigurace Arch Linuxu v češtině
 
 ## O projektu
