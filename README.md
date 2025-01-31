@@ -46,4 +46,3 @@ Tato sekce obsahuje pokročilá témata pro uživatele Arch Linuxu. Každý soub
 - [ArchForDevelopers.md](AdvancedTopics/ArchForDevelopers.md): Vývojové prostředí
 - [ArchForGamers.md](AdvancedTopics/ArchForGamers.md): Herní optimalizace
 - [ArchOnLaptop.md](AdvancedTopics/ArchOnLaptop.md): Řešení problémů s notebooky
-- [DesktopEnvironments.md](AdvancedTopics/DesktopEnvironments.md): Přehled desktopových prostředí a správců přihlášení
