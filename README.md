@@ -32,7 +32,7 @@ Tento repozitář slouží jako detailní průvodce instalací, konfigurací a p
 ## Licence
 Tento projekt je licencován pod [MIT licencí](LICENSE).
 
-## Advanced Topics
+## Pokročilá témata
 
 Tato sekce obsahuje pokročilá témata pro uživatele Arch Linuxu. Každý soubor se zaměřuje na specifickou oblast:
 
