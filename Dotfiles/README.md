@@ -1,6 +1,7 @@
 # Dotfiles
 
 Tato složka obsahuje konfigurační soubory pro různé aplikace a nástroje. Tyto soubory lze použít pro rychlé nastavení systému.
+(Toto ještě není hotové a pracuje se na tom)
 
 ## Struktura složky
 
